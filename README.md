@@ -1,1 +1,1 @@
-# SNU_FastMRI_Challenge
+# SNU_FastMRI_Challenge_Yoongon
