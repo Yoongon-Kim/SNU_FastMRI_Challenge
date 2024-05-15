@@ -1,9 +1,9 @@
 # SNU_FastMRI_Challenge_Yoongon
-Under the 'FastMRI_Challenge' folder, all project files exist.
-- The 'train.py' file implements a training process of the deep learning model(VarNet)
-- The 'reconstruct.py' implements a testing process of the trained model by utilizing the leaderboard data set which is different from the train data set.
-- The 'leaderboard_eval.py' iplements the calculation of the SSIM loss value of the tested model.
-- Modules for data loading, training/testing, and the VarNet model are included in the 'utils' folder.
+Under the 'FastMRI_Challenge' folder, all the project files exist.
+- The 'train.py' file is for a training process of the deep learning model(VarNet)
+- The 'reconstruct.py' is for a testing process of the trained model. It utilizes the leaderboard data set, which is different from the training data set.
+- The 'leaderboard_eval.py' is for the calculation of the SSIM loss value of the tested model.
+- The modules for data loading, training/testing, and the VarNet model are included in the 'utils' folder.
 
 ## Reference
 [1] Zbontar, J.*, Knoll, F.*, Sriram, A.*, Murrell, T., Huang, Z., Muckley, M. J., ... & Lui, Y. W. (2018). fastMRI: An Open Dataset and Benchmarks for Accelerated MRI. arXiv preprint arXiv:1811.08839.
